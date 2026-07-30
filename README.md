@@ -30,69 +30,41 @@ Software Engineer | Full Stack Developer | AI & Computer Vision Enthusiast
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Ahmad Kollab
+I am a Software Engineer and Intelligent Systems & Computer Engineering student passionate about building modern software solutions.
 
-role:
-  - Software Engineer
-  - Full Stack Developer
-  - AI Enthusiast
+My main interests are:
 
-education:
-  - Intelligent Systems & Computer Engineering Student
+- 💻 Full Stack Development
+- ⚙️ Backend Engineering
+- 🤖 Artificial Intelligence
+- 🧠 Computer Vision
+- 🚀 Scalable Software Architecture
 
-currently_learning:
-  - ASP.NET Core
-  - Backend Architecture
-  - Artificial Intelligence
-  - Computer Vision
+Currently focusing on:
 
-interests:
-  - Scalable Web Applications
-  - Machine Learning
-  - Clean Code
-  - Open Source
-
-available_for:
-  - Freelance Projects
-  - Software Engineering Opportunities
-  - Collaborations
-```
+- ASP.NET Core
+- Laravel
+- Angular
+- AI-powered applications
+- Backend performance optimization
 
 ---
 
-## 🚀 About My Work
+## 🛠️ Tech Stack
 
-I enjoy transforming ideas into real-world applications by combining:
-
-💻 Modern Web Technologies  
-⚙️ Backend Engineering  
-🤖 Artificial Intelligence  
-🧠 Computer Vision  
-
-Currently focusing on building scalable systems and improving my software engineering skills.
-
----
-
-# 🛠 Tech Stack
-
-## Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cs,java,python,php,javascript,typescript,kotlin,html,css"/>
 </p>
 
----
-
-## Frameworks & Libraries
+### Frameworks & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=dotnet,angular,laravel,flask"/>
 </p>
 
----
-
-## Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
@@ -100,17 +72,13 @@ Currently focusing on building scalable systems and improving my software engine
 
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
----
-
-## Tools & Platforms
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio,postman,firebase"/>
 </p>
 
----
-
-## Artificial Intelligence
+### AI & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
@@ -118,42 +86,46 @@ Currently focusing on building scalable systems and improving my software engine
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
 ## 🤖 CodeVault AI
 
-AI-powered code assistant platform built with Laravel.
+AI-powered code assistant platform.
 
-**Technologies:**
+**Built with:**
+
 - Laravel
 - AI Integration
 - MySQL
 - REST APIs
+- Modern Web Architecture
 
 
 ---
 
 ## 📋 TaskFlow AI
 
-Smart task management system enhanced with AI features.
+Smart task management platform enhanced with AI features.
 
-**Technologies:**
+**Built with:**
+
 - Laravel
-- AI Features
 - Database Design
-- Full Stack Development
+- Authentication
+- AI Features
 
 
 ---
 
 ## ✍️ Inkwell
 
-Modern blogging and content management platform.
+Modern content management and blogging platform.
 
-**Technologies:**
+**Built with:**
+
 - Laravel
-- Authentication
 - CRUD Architecture
+- Authentication
 - Responsive Design
 
 
@@ -171,56 +143,57 @@ Full Stack application built using:
 
 ---
 
+## 🧠 MovePal
+
+Computer Vision based movement practice prototype.
+
+**Built with:**
+
+- Python
+- Flask
+- MediaPipe
+- Computer Vision
+- Pose Detection
+
+
+---
+
 # 🎯 Current Focus
 
-```text
-🔥 Improving Backend Engineering Skills
+🚀 Building scalable backend systems
 
-⚙️ Building APIs with ASP.NET Core
+⚙️ Improving ASP.NET Core expertise
 
-🚀 Developing Full Stack Applications
+🔥 Developing full-stack applications
 
 🤖 Exploring AI & Computer Vision
 
-🌱 Learning Software Architecture
-```
+🌱 Learning software architecture and clean code practices
+
 
 ---
 
 # 📚 Learning Journey
 
-- 🤖 Artificial Intelligence with Python
-- 🧠 Computer Vision & Neural Networks
-- ⚙️ Backend Engineering & Performance Optimization
-- 🌐 Full Stack Web Development
-- 🔥 Laravel Development
+- Artificial Intelligence with Python
+- Computer Vision & Neural Networks
+- Backend Engineering & Performance Optimization
+- Laravel Development
+- Full Stack Web Development
 
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AhmadKollab&show_icons=true&theme=transparent&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmadKollab&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKollab&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AhmadKollab&theme=transparent&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmadKollab&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
-
----
 
 # 📈 Contribution Activity
 
@@ -230,30 +203,6 @@ Full Stack application built using:
 
 </div>
 
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AhmadKollab&theme=flat&no-frame=true&row=1"/>
-
-</div>
-
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AhmadKollab/AhmadKollab/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
-
----
 
 # 👀 Profile Views
 
